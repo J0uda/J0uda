@@ -20,9 +20,8 @@ I specialize in **React.js, Next.js, and Node.js**, crafting seamless user exper
 ```js
 const skills = {
     languages: ['JavaScript', 'TypeScript'],
-    frameworks: ['React', 'Next.js', 'Node.js', 'FastAPI'],
+    frameworks: ['React', 'Next.js', 'Node.js', 'React Native'],
     platforms: ['GitHub', 'Docker', 'Vercel'],
-    ai: ['OpenAI', 'Machine Learning']
 };
 ```
 ## 🚀 Key Projects
