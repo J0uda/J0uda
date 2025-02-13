@@ -10,7 +10,7 @@ I specialize in **React.js, Next.js, and Node.js**, crafting seamless user exper
 
 💡 Let's build something amazing! 🚀
 
-`https://www.linkedin.com/in/amine-jaoued`. Let me know if you want any modifications! 😃
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-jaoued) 😃
 
 
 ---
